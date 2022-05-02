@@ -12,7 +12,7 @@
 <h3 align="left">Connect comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/wlisses-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wlisses-silva/" altura= "Largura de 30" ="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/wlissessilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wlissessilva" altura="30" largura="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/wlissessilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wlissessilva" altura="30" largura="4" /></a>
 <a href="https://instagram.com/https://www.instagram.com/wlissesbsilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/wlissesbsilva/" altura="30" largura="2 40" /></a>
 </p>
 
