@@ -1,10 +1,10 @@
 - 👋 Oi, eu sou Wlisses Silva.
 
-No momento estou em fase de transição de carreira para a área de Cloud Computing, venho me dedicando diariamente aos estudos há mais de 6 meses, e gostaria de ter uma oportunidade num cargo Jr com Azure.
+No momento estou em fase de transição de carreira para a área de Cloud Computing, venho me dedicando diariamente aos estudos há um ano, e gostaria de ter uma oportunidade num cargo Jr com Azure.
  
 Infraestrutura como código (IaC) e DevOps me interessa bastante, ferramentas como Terraform e Ansible, ferramentas de orquestração de Conteineres, Docker e Kubernetes.
 
-Tenho o grande sonho de me torna um Arquiteto de Soluções Cloud e trabalhar com MIcrosoft Azure e outros provedores. Recentemente fui aprovado em minha primeira certificação Microsoft Certified Azure Fundamentals - AZ-900, agora me preparo para Microsoft Azure Administrator, AZ-104.
+Tenho o grande sonho de me torna um Arquiteto de Soluções Cloud e trabalhar com MIcrosoft Azure e outros provedores. Já fui aprovado em minha primeira certificação Microsoft Certified Azure Fundamentals - AZ-900, e recentemente fui aprovado na Microsoft Azure Administrator, AZ-104.
 
 
 <!---
