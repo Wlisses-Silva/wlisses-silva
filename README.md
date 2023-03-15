@@ -2,7 +2,8 @@
 ### Seja bem vindo ao meu perfil do GitHub!
 
 Profissional da área de TI, graduado em Análise de Sistemas com 4 anos de experiência como Analista de T.I. 
-Focado em Cloud Computing e nas melhores práticas da cultura DevOps. 
+Focado em Cloud Computing e nas melhores práticas da cultura DevOps.
+Gosto de está sempre aprendendo coisas novas, sou curioso, tenho boa comunicação e empatia com as pessoas, gosto muito de trabalhar em equipe, e preso pela organização de um ambiente. Sempre foco minha criatividade na busca por soluções práticas e viáveis alinhadas com os objetivos da organização. 
 
 ## Conhecimento nas seguintes Tecnologias e Ferramentas 💻
 
