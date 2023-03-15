@@ -5,7 +5,15 @@ Profissional da área de TI, graduado em Análise de Sistemas com 4 anos de expe
 
 Focado em Cloud Computing e nas melhores práticas da cultura DevOps.
 
-Gosto de está sempre aprendendo coisas novas, sou curioso, tenho boa comunicação e empatia com as pessoas, gosto muito de trabalhar em equipe, e preso pela organização de um ambiente. Sempre foco minha criatividade na busca por soluções práticas e viáveis alinhadas com os objetivos da organização. 
+Gosto de está sempre aprendendo coisas novas, sou curioso, tenho boa comunicação e empatia com as pessoas, gosto muito de trabalhar em equipe, e preso pela organização de um ambiente. Sempre foco minha criatividade na busca por soluções práticas e viáveis alinhadas com os objetivos da organização.
+
+## Certificações 📝
+***Microsoft Certified Azure Fundamentals AZ-900*** ✅
+
+***Microsoft Certified Azure Administrator Associate***✅
+
+
+
 
 ## Conhecimento nas seguintes Tecnologias e Ferramentas 💻
 
