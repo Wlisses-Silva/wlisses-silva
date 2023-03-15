@@ -1,11 +1,8 @@
 ## Olá, meu nome é Wlisses Silva.
 ### Seja bem vindo ao meu perfil do GitHub!
 
-No momento estou em fase de transição de carreira para a área de Cloud Computing, venho me dedicando diariamente aos estudos há um ano, e gostaria de ter uma oportunidade num cargo Jr com Azure.
- 
-Infraestrutura como código (IaC) e DevOps me interessa bastante, ferramentas como Terraform e Ansible, ferramentas de orquestração de Conteineres, Docker e Kubernetes.
-
-Tenho o grande sonho de me torna um Arquiteto de Soluções Cloud e trabalhar com MIcrosoft Azure e outros provedores. Já fui aprovado em minha primeira certificação Microsoft Certified Azure Fundamentals - AZ-900, e recentemente fui aprovado na Microsoft Azure Administrator, AZ-104.
+Profissional da área de TI, formado em Análise de Sistemas com 4 anos de experiência. 
+Focado em Cloud Computing e nas melhores práticas da cultura DevOps. 
 
 ## Conhecimento nas seguintes Tecnologias e Ferramentas 💻
 
