@@ -6,7 +6,9 @@ Infraestrutura como código (IaC) e DevOps me interessa bastante, ferramentas co
 
 Tenho o grande sonho de me torna um Arquiteto de Soluções Cloud e trabalhar com MIcrosoft Azure e outros provedores. Já fui aprovado em minha primeira certificação Microsoft Certified Azure Fundamentals - AZ-900, e recentemente fui aprovado na Microsoft Azure Administrator, AZ-104.
 
+## Conhecimento nas seguintes Tecnologias e Ferramentas 💻
 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 <!---
 Wlisses-Silva/Wlisses-Silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
