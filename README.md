@@ -11,7 +11,7 @@ Tenho o grande sonho de me torna um Arquiteto de Soluções Cloud e trabalhar co
 Wlisses-Silva/Wlisses-Silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://komarev.com/ghpvc/?username=deciocferreira&color=yellow" alt="Visitas" /></p>
+<img src="https://komarev.com/ghpvc/?username=wlisses-silva&blue=yellow" alt="Visitas" /></p>
 ##  Contato 📱
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wlisses-silva)
 [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:wlisses.silva@outlook.com)
