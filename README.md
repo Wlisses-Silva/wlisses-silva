@@ -1,7 +1,8 @@
 ## Olá, meu nome é Wlisses Silva.
 ### Seja bem vindo ao meu perfil do GitHub!
 
-Profissional da área de TI, formado em Análise de Sistemas com 4 anos de experiência. 
+Profissional da área de TI, formado em Análise de Sistemas com 4 anos de experiência.
+
 Focado em Cloud Computing e nas melhores práticas da cultura DevOps. 
 
 ## Conhecimento nas seguintes Tecnologias e Ferramentas 💻
