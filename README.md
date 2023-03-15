@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou Wlisses Silva.
+👋 Oi, eu sou Wlisses Silva.
 
 No momento estou em fase de transição de carreira para a área de Cloud Computing, venho me dedicando diariamente aos estudos há um ano, e gostaria de ter uma oportunidade num cargo Jr com Azure.
  
